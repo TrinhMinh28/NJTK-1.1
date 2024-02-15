@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d5dcc10b372bd4fa6f9990e8048d51, type: 3}
+  m_Name: Mission2
+  m_EditorClassIdentifier: 
+  MissionIndex: 2
+  MissionName: "S\u1EED d\u1EE5ng V\u1EADt ph\u1EA9m"
+  MissionDes: "T\xECm NpcTaijma  v\xE0 nh\u1EADn nhi\u1EC7m v\u1EE5"
+  LeverMission: 2
+  NpcAssigned: {fileID: 11400000, guid: 0504f7c69649c424883bb98a6763529a, type: 2}
+  MissionTalkForGiverNpc:
+  - "Su khi ch\xE0o h\u1ECFi c\xE1c v\u1ECB ti\u1EC1n b\u1ED1i trong l\xE0ng"
+  - "Gi\u1EDD con h\xE3y \u0111i t\u1EA5n c\xF4ng v\xE0i con b\xF9 nh\xECn kia "
+  - "Sau \u0111\xF3 nh\u1EB7t v\xE0i vi\xEAn \u0111\xE1 r\u1ED3i v\u1EC1 g\u1EB7p
+    ta"
+  MissionSmall:
+  - {fileID: 11400000, guid: 9c1077716597a4a4388bbcfd2dc4c7cb, type: 2}
+  - {fileID: 11400000, guid: 012779073ceb56d49b978a023b8aaa5f, type: 2}
+  ActiveMission: 0
+  Complete: 0

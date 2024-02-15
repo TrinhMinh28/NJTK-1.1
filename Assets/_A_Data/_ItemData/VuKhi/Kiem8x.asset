@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0fd0e4493899c948aa8b264120fffdd, type: 3}
+  m_Name: Kiem8x
+  m_EditorClassIdentifier: 
+  ItemIndex: 0
+  ItemName: "Huy\u1EBFt \xC2m Ki\u1EBFm"
+  ItemDes: "V\u0169 kh\xED c\u1ED5 x\u01B0a, \u0111\u01B0\u1EE3c ph\xE1t hi\u1EC7n
+    trong m\u1ED9t di ch\u1EC9 c\u1EE7a ti\u1EC1n nh\xE2n, ch\u1EE9a s\xE1t kh\xED
+    n\u1ED3ng \u0111\u1EADm"
+  ItemSprite: {fileID: 21300000, guid: 4fe2998b3466e824e99cd9850d569866, type: 3}
+  ItemPrice: 8000
+  ItemBuy: 18000
+  TypeQuantityItem: 0
+  UseItem: 1
+  _TypeUsableItem:
+    UsableItemsItem:
+      ItemLevel: 80
+      EffectiveTime: 0
+      LeveBonus: 0
+      ExpBonus: 0
+      YenBonus: 0
+      XuBonus: 0
+      HealBonus: 0
+      ManaNonus: 0
+      DameBonus: 800
+      GiapBonus: 0
+      XuyenGiapBonus: 80
+      CritBonus: 8
+    equipmentType: 0
+    classItem: 0
+    skillWeapons:
+      SkillBang: {fileID: 0}
+      SkillHoa: {fileID: 11400000, guid: 518bc5ecce6eae04b9b3936326a14cef, type: 2}
+      SkillPhong: {fileID: 0}
