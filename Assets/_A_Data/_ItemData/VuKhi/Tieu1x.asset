@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0fd0e4493899c948aa8b264120fffdd, type: 3}
+  m_Name: Tieu1x
+  m_EditorClassIdentifier: 
+  ItemIndex: 0
+  ItemName: "Ph\xE0m \xDD Ti\xEAu"
+  ItemDes: "V\u0169 kh\xED x\u1EA1 chi\u1EBFn c\u1EE7a h\u1ECDc sinh nh\u1EADp m\xF4n
+    tr\u01B0\u1EDDng Hirosaki"
+  ItemSprite: {fileID: 21300000, guid: 3cd7c3631f5a60b44a659d2bf79fa557, type: 3}
+  ItemPrice: 1500
+  ItemBuy: 2500
+  TypeQuantityItem: 0
+  UseItem: 1
+  _TypeUsableItem:
+    UsableItemsItem:
+      ItemLevel: 10
+      EffectiveTime: 0
+      LeveBonus: 0
+      ExpBonus: 0
+      YenBonus: 0
+      XuBonus: 0
+      HealBonus: 0
+      ManaNonus: 0
+      DameBonus: 100
+      GiapBonus: 0
+      XuyenGiapBonus: 10
+      CritBonus: 1
+    equipmentType: 1
+    classItem: 0
+    skillWeapons:
+      SkillBang: {fileID: 0}
+      SkillHoa: {fileID: 11400000, guid: 054c492fd594c81408a5677c9ee44b81, type: 2}
+      SkillPhong: {fileID: 0}

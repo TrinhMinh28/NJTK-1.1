@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0fd0e4493899c948aa8b264120fffdd, type: 3}
+  m_Name: GangVaiTho
+  m_EditorClassIdentifier: 
+  ItemIndex: 15
+  ItemName: "G\u0103ng V\u1EA3i Th\xF4"
+  ItemDes: "G\u0103ng tay d\u1EC7t t\u1EEB v\u1EA3i th\xF4"
+  ItemSprite: {fileID: 21300000, guid: ae1cbef99d81bbf49b4a7692b399fbb0, type: 3}
+  ItemPrice: 100
+  ItemBuy: 200
+  TypeQuantityItem: 0
+  UseItem: 1
+  _TypeUsableItem:
+    UsableItemsItem:
+      ItemLevel: 15
+      EffectiveTime: 0
+      LeveBonus: 0
+      ExpBonus: 0
+      YenBonus: 0
+      XuBonus: 0
+      HealBonus: 10
+      ManaNonus: 0
+      DameBonus: 0
+      GiapBonus: 10
+      XuyenGiapBonus: 0
+      CritBonus: 0
+    equipmentType: 3
+    classItem: 0
+    skillWeapons:
+      SkillBang: {fileID: 0}
+      SkillHoa: {fileID: 0}
+      SkillPhong: {fileID: 0}
+    ObjectItem: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d5dcc10b372bd4fa6f9990e8048d51, type: 3}
+  m_Name: Mission1
+  m_EditorClassIdentifier: 
+  MissionIndex: 1
+  MissionName: "Nhi\u1EC7m v\u1EE5 ch\xE0o l\xE0ng"
+  MissionDes: "T\xECm Npc Taijma v\xE0 nh\u1EADn nhi\u1EC7m v\u1EE5"
+  LeverMission: 1
+  NpcAssigned: {fileID: 11400000, guid: 0504f7c69649c424883bb98a6763529a, type: 2}
+  MissionTalkForGiverNpc:
+  - "Ch\xE0o Con"
+  - "Con h\xE3y \u0111i l\xE0m quen v\u1EDBi c\xE1c c\u01B0 d\xE2n trong l\xE0ng"
+  MissionSmall:
+  - {fileID: 11400000, guid: d04140b9c240bae4c91ad63ca95b0dd8, type: 2}
+  - {fileID: 11400000, guid: 2ff27150921118a448241fa45fc020a1, type: 2}
+  - {fileID: 11400000, guid: af5bead35975c0a4bbe9b7df9a15b70b, type: 2}
+  ActiveMission: 0
+  Complete: 0
